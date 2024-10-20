@@ -1,0 +1,28 @@
+git init  => To initialised the gir repo
+git status => To check the status of that files
+Case 1: If the file names are in red means we have
+to add that files
+Case 2: If the files names are in green means all
+files are added  
+git add .
+git commit -m "Any Message"
+git push -u / git push -u origin main/master
+It is used to push the final changes done in the 
+repo
+
+
+
+This commands are only when we have done changes
+and are uploading the changed files.
+
+When we are creating new repo following are the
+commands
+
+git init
+git status
+git add .
+git commit -m "Any Message"
+git branch -M main
+git remote add origin your repo url
+git push -u origin main
+
